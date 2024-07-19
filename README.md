@@ -1,7 +1,8 @@
 # Beverage Sales and Delivery Power BI Analysis Project
+![Power BI Dataset - Learners - DAX](https://github.com/user-attachments/assets/633b8d4e-7fa8-4087-a39b-29a632271a7a)
 
 ## Overview
-This project provides an in-depth analysis of beverage sales and delivery across different states data using Power BI. The dataset includes various metrics that help in understanding learner performance, engagement, and progress.
+This project provides an in-depth analysis of beverage sales and delivery across different states using Power BI.
 
 ## Project Files
 - **Power BI File**: `Power BI Beverage Sales and Delivery.pbix`
