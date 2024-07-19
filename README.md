@@ -1,4 +1,4 @@
-# Beverage Sales and Delivery Power BI Analysis Project
+# Beverage Sales and Delivery Power BI Report
 ![Power BI Dataset - Learners - DAX](https://github.com/user-attachments/assets/633b8d4e-7fa8-4087-a39b-29a632271a7a)
 
 ## Overview
